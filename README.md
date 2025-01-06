@@ -1,2 +1,1 @@
-# WHATSAPPfake
-lavoro invernale per TPSIT
+Must install Pillow using: pip install Pillow
